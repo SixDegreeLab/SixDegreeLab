@@ -6,26 +6,26 @@ const navBar = {
 // Main Body SECTION
 const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
-  firstName: "SixDegree Lab",
+  firstName: "Sixdegree Lab",
   middleName: "",
   lastName: "",
   message: " Dive into blockchain data. Discover the value of on-chain data.",
   icons: [
     {
       image: "fa-github",
-      url: "https://github.com/SixDegreeLab",
+      url: "https://github.com/SixdegreeLab",
     },
     {
       image: "fa-facebook",
-      url: "https://www.facebook.com/SixDegreeLab",
+      url: "https://www.facebook.com/SixdegreeLab",
     },
     {
       image: "fa-instagram",
-      url: "https://www.instagram.com/SixDegreeLab/",
+      url: "https://www.instagram.com/SixdegreeLab/",
     },
     {
       image: "fa-linkedin",
-      url: "https://www.linkedin.com/in/SixDegreeLab/",
+      url: "https://www.linkedin.com/in/SixdegreeLab/",
     },
     {
       image: "fa-twitter",
@@ -66,7 +66,7 @@ const about = {
 const repos = {
   show: true,
   heading: "Recent Projects",
-  gitHubUsername: "SixDegreeLab", //i.e."johnDoe12Gh"
+  gitHubUsername: "SixdegreeLab", //i.e."johnDoe12Gh"
   reposLength: 4,
   specificRepos: [],
 };
@@ -127,7 +127,7 @@ const getInTouch = {
   heading: "Get In Touch",
   message:
     "If you have any questions or data analysis requirements, please feel free to email us at",
-  email: "contact@sixdegree.xyz",
+  email: "SixdegreeLab@gmail.com",
 };
 
 const experiences = {

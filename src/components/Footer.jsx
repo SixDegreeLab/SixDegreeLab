@@ -12,15 +12,15 @@ const Footer = (props) => {
         <a
           className="badge badge-dark"
           rel="noopener"
-          href="https://github.com/SixDegreeLab"
+          href="https://github.com/SixdegreeLab"
           aria-label="My GitHub"
         >
-          SixDegree
+          Sixdegree
         </a>{" "}
         using <i className="fab fa-react" />
         <p>
           <small className="text-muted">
-          © 2022 SixDegree. All Rights Reserved.
+          © 2022 Sixdegree. All Rights Reserved.
           </small>
         </p>
       </Container>
